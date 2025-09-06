@@ -1,4 +1,4 @@
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🔭 I’m currently working on **Python (NumPy)** and **PHP (MySQL)**  
 🌱 I’m currently learning **AI/ML with Python and Data Science** and **Backend Development** using **Python (Django)**  
@@ -7,6 +7,8 @@
 📫 How to reach me: **bhavinhariyani380@gmail.com** | [**Linkedin**](https://www.linkedin.com/in/bhavin-hariyani-598263310/) <br>
 ⚡ Fun fact: I try solving **LeetCode & DSA problems**  
 
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python)
 
 <!--
 **BHAVIN-Hariyani-001b/BHAVIN-Hariyani-001b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
