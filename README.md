@@ -1,4 +1,12 @@
-## Hi there 👋
+### 👨‍💻 About Me
+
+🔭 I’m currently working on **Python (Numpy)** and **PHP (MySQL)**  
+🌱 I’m currently learning **AI/ML with Python and Data Science** and **Backend Development** using **Python (Django)**
+👯 I’m looking to collaborate on **Open Source AI projects**  
+💬 Ask me about **Python, Numpy, PHP, MySQL, Backend Development, javaScript, Cpp**  
+📫 How to reach me: **bhedit367@gmail.com** and **bhavinhariyani380@gmail.com**
+⚡ Fun fact: I try solving **LeetCode & DSA problems**  
+
 
 <!--
 **BHAVIN-Hariyani-001b/BHAVIN-Hariyani-001b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
