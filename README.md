@@ -4,7 +4,7 @@
 🌱 I’m currently learning **AI/ML with Python and Data Science** and **Backend Development** using **Python (Django)**  
 👯 I’m looking to collaborate on **Open Source AI projects**  
 💬 Ask me about **Python, NumPy, PHP, MySQL, Backend Development, JavaScript, C++**  
-📫 How to reach me: **bhavinhariyani380@gmail.com** | (Linkedin)[**https://www.linkedin.com/in/bhavin-hariyani-598263310/**]  
+📫 How to reach me: **bhavinhariyani380@gmail.com** | [Linkedin](**https://www.linkedin.com/in/bhavin-hariyani-598263310/**)
 ⚡ Fun fact: I try solving **LeetCode & DSA problems**  
 
 
