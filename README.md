@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-🔭 I’m currently working on **Python (NumPy)** and **PHP (MySQL)**  
+🔭 I’m currently working on **Python (NumPy,Pandas)** and **PHP (MySQL)**  
 🌱 I’m currently learning **AI/ML with Python and Data Science** and **Backend Development** using **Python (Django)**  
 👯 I’m looking to collaborate on **Open Source AI projects**  
 💬 Ask me about **Python, NumPy, PHP, MySQL, Backend Development, JavaScript, C++**  
