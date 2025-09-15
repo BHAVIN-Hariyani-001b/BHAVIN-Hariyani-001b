@@ -29,8 +29,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BHAVIN-Hariyani-001b&show_icons=true&theme=dark&hide_border=false&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BHAVIN-Hariyani-001b&theme=dark&hide_border=false)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=BHAVIN-Hariyani-001b&theme=dark&hide_border=false)<br/>
 
 <!--
 **BHAVIN-Hariyani-001b/BHAVIN-Hariyani-001b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
