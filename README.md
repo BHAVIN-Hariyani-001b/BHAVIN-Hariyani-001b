@@ -25,14 +25,14 @@
 ![DSA](https://img.shields.io/badge/DSA-2E3440?style=for-the-badge&logo=codeforces&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+<!--
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVIN-Hariyani-001b&theme=dark&hide_border=false&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BHAVIN-Hariyani-001b&show_icons=true&theme=dark&hide_border=false&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BHAVIN-Hariyani-001b&theme=dark&hide_border=false)<br/>
-
+-->
 <!--
 **BHAVIN-Hariyani-001b/BHAVIN-Hariyani-001b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
