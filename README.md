@@ -7,7 +7,7 @@
 - 🧠 Practicing Data Structures and Algorithms (DSA) and LeetCode problems<br>
 - 🎯 Goal: To become an AI/ML Engineer and build practical, intelligent applications<br>
 - 📫 Email: bhavinhariyani380@gmail.com<br>
-- 🔗 LinkedIn: Bhavin Hariyani [**Linkedin**](https://www.linkedin.com/in/bhavin-hariyani-598263310/) <br>
+- 🔗 LinkedIn: [**Bhavin Hariyani**](https://www.linkedin.com/in/bhavin-hariyani-598263310/) 
  <br><br>
 
 
