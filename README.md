@@ -3,7 +3,7 @@
 - 🌱 Learning Machine Learning, Data Science, and Generative AI<br>
 - ⚙️ Building APIs and web applications using FastAPI and Flask<br>
 - 👯 Looking to collaborate on Open-Source AI/ML and Python projects<br>
-- 💬 Ask me about Python, NumPy, Pandas, Flask, FastAPI, PHP, MySQL, JavaScript, and C++<br>
+- 💬 Ask me about Python, NumPy, Pandas, Flask, FastAPI, MySQL, JavaScript, React, and C++<br>
 - 🧠 Practicing Data Structures and Algorithms (DSA) and LeetCode problems<br>
 - 🎯 Goal: To become an AI/ML Engineer and build practical, intelligent applications<br>
 - 📫 Email: bhavinhariyani380@gmail.com<br>
