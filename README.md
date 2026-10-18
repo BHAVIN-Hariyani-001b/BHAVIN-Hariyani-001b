@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 Currently working on Python Backend Development and AI/ML projects<br><br>🌱 Learning Machine Learning, Data Science, and Generative AI<br><br>⚙️ Building APIs and web applications using FastAPI and Flask<br><br>👯 Looking to collaborate on Open-Source AI/ML and Python projects<br><br>💬 Ask me about Python, NumPy, Pandas, Flask, FastAPI, PHP, MySQL, JavaScript, and C++<br><br>🧠 Practicing Data Structures and Algorithms (DSA) and LeetCode problems<br><br>🎯 Goal: To become an AI/ML Engineer and build practical, intelligent applications<br><br>📫 Email: bhavinhariyani380@gmail.com<br><br>🔗 LinkedIn: Bhavin Hariyani<br><br>
+- 🔭 Currently working on Python Backend Development and AI/ML projects<br>
+- 🌱 Learning Machine Learning, Data Science, and Generative AI<br>
+- ⚙️ Building APIs and web applications using FastAPI and Flask<br>
+- 👯 Looking to collaborate on Open-Source AI/ML and Python projects<br>
+- 💬 Ask me about Python, NumPy, Pandas, Flask, FastAPI, PHP, MySQL, JavaScript, and C++<br>
+- 🧠 Practicing Data Structures and Algorithms (DSA) and LeetCode problems<br>
+- 🎯 Goal: To become an AI/ML Engineer and build practical, intelligent applications<br>
+- 📫 Email: bhavinhariyani380@gmail.com<br>
+- 🔗 LinkedIn: Bhavin Hariyani<br><br>
 
 
 ## 🌐 Socials:
